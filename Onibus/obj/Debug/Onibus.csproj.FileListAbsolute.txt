@@ -1,0 +1,14 @@
+C:\Users\mathe\Desktop\onibus\Onibus\bin\Debug\Onibus.exe.config
+C:\Users\mathe\Desktop\onibus\Onibus\bin\Debug\Onibus.exe
+C:\Users\mathe\Desktop\onibus\Onibus\bin\Debug\Onibus.pdb
+C:\Users\mathe\Desktop\onibus\Onibus\obj\Debug\Onibus.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\onibus\Onibus\obj\Debug\MainWindow.baml
+C:\Users\mathe\Desktop\onibus\Onibus\obj\Debug\MainWindow.g.cs
+C:\Users\mathe\Desktop\onibus\Onibus\obj\Debug\App.g.cs
+C:\Users\mathe\Desktop\onibus\Onibus\obj\Debug\Onibus_MarkupCompile.cache
+C:\Users\mathe\Desktop\onibus\Onibus\obj\Debug\Onibus.g.resources
+C:\Users\mathe\Desktop\onibus\Onibus\obj\Debug\Onibus.Properties.Resources.resources
+C:\Users\mathe\Desktop\onibus\Onibus\obj\Debug\Onibus.csproj.GenerateResource.cache
+C:\Users\mathe\Desktop\onibus\Onibus\obj\Debug\Onibus.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\onibus\Onibus\obj\Debug\Onibus.exe
+C:\Users\mathe\Desktop\onibus\Onibus\obj\Debug\Onibus.pdb
